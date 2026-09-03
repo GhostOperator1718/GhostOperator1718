@@ -3,7 +3,7 @@
 I am a 17-year-old AI-Native Product Architect, Independent AI Safety Researcher, and aspiring Deep-Tech Innovator. Fueled by a high-focus vertical learning curve, I operate at the intersection of machine logic and security—orchestrating advanced AI workflows to generate software and bypass enterprise guardrails without writing a single line of traditional code.
 
 ## 🏆 Cyber Security & AI Red Teaming
- **Lakera Agent Breaker:** Scaled from zero to **Top 170 globally** within the first 20 hours of platform engagement. Currently deploying systematic prompt-injection models to secure a position in the **Global Top 10**.
+ **Lakera Agent Breaker:** Scaled from zero to **Top 171 globally** within the first 20 hours of platform engagement. Currently deploying systematic prompt-injection models to secure a position in the **Global Top 10**.
  
 * **Orchestration Methodology:** Specialized in high-level logical attack chains. I conceptualize strategic vulnerabilities and direct LLMs to execute elite-level exploitation against enterprise-grade defenses.
   
