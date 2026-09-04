@@ -11,14 +11,14 @@ I am a 17-year-old AI-Native Product Architect, Independent AI Safety Researcher
 
 ## 💻 AI-Native Software & Deep-Tech Ambitions
 * **SaaS Architecture:** Architected, generated, and published **4 independent free-tier SaaS platforms** by orchestrating AI workflows to handle end-to-end execution.
-* 
+  
 * **Laboratory Inventions & IP:** Deeply passionate about hardware and non-hardware innovations and discoveries. Planning to have a personal "laboratory" in the future. Actively developing theorical technical blueprints with the long-term goal of inventing and licensing proprietary intellectual property (IP).
 
 ## 🧠 Analytical Mind & Discipline
 * **Problem Solving:** Great capacity for rapid pattern recognition, system reverse-engineering, and logical thinking under pressure.
-* 
+  
 * **Athletic Grit:** Years of experience in competitive Football (Soccer), foundational training in MMA/Grappling, and actively passionate about Hyrox endurance races.
-* 
+  
 * **Language Proficiency:** Italian (Native), English (Full Professional Proficiency / Estimated B2-C1 level).
 
 ## 📬 Contact & Venture Inquiries
